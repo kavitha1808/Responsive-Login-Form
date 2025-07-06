@@ -24,6 +24,9 @@ Uses media queries and max-width to ensure smooth layout on mobile devices.
 ## Screenshot
 ![Preview](image.png)
 
+## Mobile View Screenshot
+![screenshot](image-1.png)
+
 ## 🔧 To Improve
 - Add JavaScript validation
 - Toggle error message
